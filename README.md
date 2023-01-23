@@ -4,6 +4,10 @@
 
 ## Installation
 1. Clone/download repo
+```bash
+git clone {repository URL} {path to the folder where the repository would be saved}
+cd {path to the folder where the repository was saved}/crud-api
+```
 2. `npm install`
 3. Rename file `.env.test` to `.env`
 
